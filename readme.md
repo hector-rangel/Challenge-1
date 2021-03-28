@@ -12,6 +12,7 @@ Improving the code without changing what it does.
 - Find a Concise title.
 - Clean up code by consolidating css selectors and properties.
 
+# https://hector-rangel.github.io/Challenge-1/
 
 ![image](https://user-images.githubusercontent.com/79381847/112707599-9ca2c780-8e7a-11eb-92bb-2ce3d3778e9c.png)
 
